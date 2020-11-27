@@ -1,4 +1,4 @@
-package datastructure
+package datastructure.lists
 
 /**
  * @Description TODO
