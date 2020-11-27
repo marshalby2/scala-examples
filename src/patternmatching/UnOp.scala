@@ -5,4 +5,4 @@ package patternmatching
  * @Author marshal
  * @Date 19/11/20 8:52 AM
  */
-case class Unop()
+case class UnOp(operator: String, atg: Expr) extends Expr

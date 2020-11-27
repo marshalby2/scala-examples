@@ -14,6 +14,7 @@ object UserTest {
     // Logger is an object class, like static method in java
     Logger.info("Create User")
     println(tom.toString)
+    println(tom)
   }
 
 }

@@ -5,6 +5,6 @@ package controllflow
  * @Author marshal
  * @Date 19/11/20 12:00 AM
  */
-object ForeachTest {
-
+object ForeachTest extends App {
+    Array.range(0, 10) foreach println
 }

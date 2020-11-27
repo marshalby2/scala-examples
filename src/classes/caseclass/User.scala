@@ -5,4 +5,4 @@ package classes.caseclass
  * @Author marshal
  * @Date 19/11/20 5:11 AM
  */
-case class User()
+case class User(age: Int, name: String)

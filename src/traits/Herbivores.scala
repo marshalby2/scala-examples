@@ -5,6 +5,6 @@ package traits
  * @Author marshal
  * @Date 19/11/20 1:33 AM
  */
-trait Herbivores {
-
+trait Herbivores extends Animal {
+  override def eat: Unit = println("Herbivores eat grass.")
 }

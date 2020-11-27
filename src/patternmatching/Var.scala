@@ -5,4 +5,4 @@ package patternmatching
  * @Author marshal
  * @Date 19/11/20 5:03 AM
  */
-case class Var()
+case class Var(name: String) extends Expr

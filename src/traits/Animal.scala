@@ -6,5 +6,5 @@ package traits
  * @Date 19/11/20 1:29 AM
  */
 trait Animal {
-
+  def eat = println("Animal eating...")
 }

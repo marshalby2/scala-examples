@@ -5,6 +5,6 @@ package traits
  * @Author marshal
  * @Date 19/11/20 1:35 AM
  */
-class Dog {
-
+class Dog extends Predator {
+  override def eat: Unit = println("Dog eat bone")
 }

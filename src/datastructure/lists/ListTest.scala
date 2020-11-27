@@ -5,7 +5,7 @@ package datastructure.lists
  * @Author marshal
  * @Date 20/9/20 7:35 PM
  *
- *      List is immutable
+ *      List is immutable and lists have a recursive structure
  */
 object ListTest extends App {
 

@@ -5,4 +5,4 @@ package patternmatching
  * @Author marshal
  * @Date 19/11/20 8:51 AM
  */
-case class Number()
+case class Number(num: Double) extends Expr
